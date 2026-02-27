@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Notes
+title: Notes
 ---
 
 # Welcome to this page!

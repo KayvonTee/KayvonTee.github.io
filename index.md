@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# Welcome to this page!
 
-This is my notes page built with Jekyll.
+My name is Kayvon, and I will be posting some writing entries onto this page.

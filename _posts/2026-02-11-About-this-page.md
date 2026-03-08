@@ -3,8 +3,6 @@ layout: post
 title: "About this page"
 ---
 
-2/11/2026
-
 In the past I've tried journaling as a means of reflection, but I would never stick to it. I would also never look back at my previous entries, making it an ineffective practice for me. I am creating this page in the hopes that sharing my thoughts, experiences, and a little about myself here will solve these issues. 
 
 

@@ -1,7 +1,9 @@
+---
+layout: post
+title: "About this page:"
+---
+
 2/11/2026
-
-About this page:
-
 
 In the past I've tried journaling as a means of reflection, but I would never stick to it. I would also never look back at my previous entries, making it an ineffective practice for me. I am creating this page in the hopes that sharing my thoughts, experiences, and a little about myself here will solve these issues. 
 
@@ -16,13 +18,4 @@ Guess what? After I write that this page isn't for people to learn who I am, I'm
 
 
 This page will be a work in progress, and I'm sure as I add more entries, the content I write will become more clear. I am being open and honest about myself and my thoughts. I hope by reading this page, there is some takeaway from what I share. If one day you find yourself in a situation and remember reading about this dude who went through something similar, and that memory brings you a smile, I think that would be pretty cool, and enough of a reason for me to continue sharing.
- 
-
-
-
-
-
-
-
-
 

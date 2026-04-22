@@ -11,7 +11,11 @@ My name is Kayvon, and I will be posting some writing entries onto this page.
 # Entries
 
 {% for post in site.posts reversed %}
-- [{{post.title}}]({{ post.url}})
-  {{ post.date | date: "%B %d, %Y" }}
+  <li>
+  <a href="{{ post.url }}">{{ post.title }}</a><br>
+  <small>{{ post.date | date: "%B %d, %Y" }}</small>
+</li>
 {% endfor %}
+
+
 

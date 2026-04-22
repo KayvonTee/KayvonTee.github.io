@@ -10,7 +10,7 @@ My name is Kayvon, and I will be posting some writing entries onto this page.
 
 # Entries
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 - [{{post.title}}]({{ post.url}})
 {% endfor %}
 

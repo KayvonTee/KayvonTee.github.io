@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About this page"
----
+--- 
 
 I've tried to journal in the past as a form of self-reflection, but I would never stick to it. I also never referred back to previous entries, making it an ineffective practice for reflection. I am creating this page in the hopes that sharing my thoughts, experiences, and a little about myself here will solve these issues. 
 

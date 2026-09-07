@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: "Reflecting on my Self Perception"
+--- 
 
 When people say college changes you, they are right. I look back to my first 2 years of college and also back to high school, and although these years of my life are still recent, I feel that I have little resemblance to myself from just a couple of years ago. The person I am now has grown from the teenager I once was and is now becoming a young adult. How I perceive the world, how I carry myself, my connections with family and peers, and my responsibilities have all noticeably changed from just a few years ago.
 
